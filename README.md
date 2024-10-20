@@ -4,8 +4,9 @@
 Hello!👋🏻 My name is Nilay Chugh. I am from Ramdeobaba University pursuing Computer Science Engineering with specialisation in Cyber Security.
 
 I have a huge interest in UX/UI design📝as well coding💻! Currently studying HTML, CSS and Javascript and OOPS in Python.
+Currently learning and upskilling myself in Solidity and EVM.
 
-Currently GirlScript Summer of Code Contributor.
+Currently GirlScript Summer of Code and GirlScript Winter of Blockchain Contributor.
 
 
 - 🔭 I’m currently working on this page
