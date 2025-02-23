@@ -6,8 +6,9 @@ Hello!👋🏻 My name is Nilay Chugh. I am from Ramdeobaba University pursuing 
 I have a huge interest in UX/UI design📝as well coding💻! Currently studying HTML, CSS and Javascript and OOPS in Python.
 Currently learning and upskilling myself in Solidity and EVM.
 
-Currently GirlScript Summer of Code and GirlScript Winter of Blockchain Contributor.
+GirlScript Summer of Code and GirlScript Winter of Blockchain Contributor.
 
+Currently working and contributing in Summer of Bitcoin Challenges
 
 - 🔭 I’m currently working on this page
 - 🌱 I’m currently learning Web Development
