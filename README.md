@@ -4,7 +4,9 @@
 Hello!👋🏻 My name is Nilay Chugh. I am from Ramdeobaba University pursuing Computer Science Engineering with specialisation in Cyber Security.
 
 I have a huge interest in UX/UI design📝as well coding💻! Currently studying HTML, CSS and Javascript and OOPS in Python.
-Currently learning aboutLangchain and building AI agents on enterprise level.
+
+Currently learning about Langchain and building AI agents on enterprise level.
+
 Also exploring and learning stuff around Web3.
 
 GirlScript Summer of Code and GirlScript Winter of Blockchain Contributor.
