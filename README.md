@@ -8,7 +8,9 @@ Currently learning and upskilling myself in Solidity and EVM.
 
 GirlScript Summer of Code and GirlScript Winter of Blockchain Contributor.
 
-Currently working and contributing in Summer of Bitcoin Challenges
+Contributed in Summer of Bitcoin Challenges.
+
+Actively contributing in Girlscript Summer of Code 2025
 
 - 🔭 I’m currently working on this page
 - 🌱 I’m currently learning Web Development
